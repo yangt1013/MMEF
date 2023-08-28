@@ -10,7 +10,7 @@ torchvision >=0.8
 
 ## Training
 
-1. Download datatsets for GLPM (e.g. MAR-ships, CIB-ships, game-of-ships etc) and organize the structure as follows:
+1. Download datatsets for MMEF (e.g. MAR-ships, CIB-ships, game-of-ships etc) and organize the structure as follows:
 ```bash
 dataset
 
